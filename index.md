@@ -2,7 +2,7 @@
 
   Last updated: 26 October 2026
 
-  SubSync is a browser extension provided by [YOUR PUBLISHER NAME].
+  SubSync is a browser extension.
   It displays local or user-selected online subtitles on supported web videos.
 
   ## Local subtitle files and settings
@@ -88,5 +88,4 @@
 
   ## Contact
 
-  Publisher: [YOUR PUBLISHER NAME]
-  Email: [YOUR SUPPORT EMAIL]
+  Email: [selfiecoach@gmail.com]
